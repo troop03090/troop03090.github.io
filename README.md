@@ -1,3 +1,5 @@
+![image](https://github.com/troop03090/troop03090.github.io/assets/40272060/9691e59f-85fd-40a0-9822-c8b5f6e6939c)
+
 # Welcome to Girl Scouts Troop 03090
 
 Thank you so much for showing interest in our Girl Scout troop!
