@@ -21,7 +21,7 @@ To cover the costs of our troop meetings, including snacks, supplies, and more a
 Additional costs may arise throughout the year for events and field trips which can be optional.
 As this is our troop’s first year, we do not have any prior funds from previous cookie sales. We hope to participate this year.
  
-## What we need from you:
+## What we need from you
 If there is anything specific about your daughter that you think we should be aware of, whether it's medical, behavioral, or personal preferences, do let us know. We aim to provide a safe and nurturing environment for all our scouts. 
 
 We are looking for volunteers to support meetings and outings. Please let us know if you are available and we will send you more information on formally registering as a volunteer with the troop.
