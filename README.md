@@ -7,7 +7,7 @@ Girl Scouts empowers young girls with essential life skills, from leadership and
 
 ## Logistics
 - We’ll meet every other Wednesday starting on October 4, 2023
-- Meetings will be from 4:30pm-6pm
+- Meetings will be from 4:45pm-6pm
 - Meetings will be held in the library at PS110
 
 ## Scouting and Affordability
