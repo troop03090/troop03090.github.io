@@ -6,7 +6,7 @@ Thank you so much for showing interest in our Girl Scout troop!
 Girl Scouts empowers young girls with essential life skills, from leadership and entrepreneurship to community service and global awareness. Through diverse activities in a supportive environment, members build character, forge lifelong friendships, and prepare for future challenges and opportunities. To learn more about what we will be doing, please visit https://www.girlscouts.org
 
 ## Logistics
-- We’ll meet every other Wednesday starting on October 4, 2023
+- We’ll meet every other Wednesday starting on September 25, 2024
 - Meetings will be from 4:45pm-6pm
 - Meetings will be held in the library at PS110
 
@@ -33,9 +33,10 @@ We are looking for volunteers to support meetings and outings. Please let us kno
 
 Lastly, we'll require a few forms to be completed before our first troop meeting on October 4th. 
 
-## Sign Up
-If you'd like to register your daughter for our troop, please [share your details with us](https://forms.gle/r1feLmteXNgrSGmH7) and [sign up](https://mygs.girlscouts.org/map;troopNumber=Troop03090;distanceInMiles=10;season=Next;address=,,10020,;troopAttributes=;languages=;grades=;affiliation=;type=TROOP;meetingDays=;meetingTimeStart=;meetingTimeEnd=)
+## Find out more
+If you'd like to find out more about our troop, please [share your details with us](https://forms.gle/r1feLmteXNgrSGmH7) 
 
+## Meetings Calendar
 
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&src=Z3N0cm9vcDAzMDkwQGdtYWlsLmNvbQ&color=%237CB342" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
