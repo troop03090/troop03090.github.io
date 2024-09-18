@@ -37,6 +37,5 @@ Lastly, we'll require a few forms to be completed before our first troop meeting
 If you'd like to find out more about our troop, please [share your details with us](https://forms.gle/r1feLmteXNgrSGmH7) 
 
 ## Meetings Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&src=Z3N0cm9vcDAzMDkwQGdtYWlsLmNvbQ&color=%237CB342" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Check out our [meetings calendar](https://calendar.google.com/calendar/u/0/embed?src=gstroop03090@gmail.com) for meeting dates and events. 
 
